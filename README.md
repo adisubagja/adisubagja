@@ -8,4 +8,4 @@
 - Still figuring out what to put here. :)
 ---
 
-![Nageen's github stats](https://github-readme-stats.vercel.app/api?username=adisubagja)
+[![Adisubagja github stats](https://github-readme-stats.vercel.app/api?username=adisubagja)](https://github.com/adisubagja/github-readme-stats)
